@@ -10,7 +10,7 @@ Yes, you just need to use the Dry Dock of Ark.
 
 First, you need to get the complete code of DryDockOfArk, use 
 
-    composer create-project sinri/DryDockOfArk YourProjectName
+    composer create-project sinri/dry-dock-of-ark YourProjectName
     
 and do not forget to run `composer install` inside.
     
