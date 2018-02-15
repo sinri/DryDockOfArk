@@ -1,0 +1,16 @@
+{
+  "name": "sinri/DryDockOfArk",
+  "description": "A sample project based on Ark",
+  "type": "project",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Sinri Edogawa",
+      "email": "e.joshua.s.e@gmail.com"
+    }
+  ],
+  "require": {
+    "sinri/ark": "^0.6"
+  }
+}
