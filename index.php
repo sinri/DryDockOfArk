@@ -10,6 +10,8 @@ require_once __DIR__ . '/autoload.php';
 
 date_default_timezone_set("Asia/Shanghai");
 
+require_once __DIR__ . '/loadComponents.php';
+
 $web_service = Ark()->webService();
 $web_service->setLogger(\sinri\DryDockOfArk\core\DryDock::logger());
 

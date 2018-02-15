@@ -18,7 +18,7 @@ Then create the `config.php` in the directory of `config`, a sample given there 
 
 Configure your own config file, check your requirements on Database, Cache and Log, and make modification.
 
-It is recommended to load all those components when project is loading, so you can do this job in `autoload.php`. 
+It is recommended to load all those components when project is loading, so you can do this job in `loadComponent.php`.
 
 If you use Apache to load the project, you need to add the `.htaccess` file and open the allow override option.
 
