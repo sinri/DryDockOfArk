@@ -2,7 +2,7 @@
   "name": "sinri/dry-dock-of-ark",
   "description": "A sample project based on Ark",
   "type": "project",
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "license": "MIT",
   "authors": [
     {
