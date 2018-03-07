@@ -11,6 +11,6 @@
     }
   ],
   "require": {
-    "sinri/ark": "~0.6"
+    "sinri/ark": "~0.9"
   }
 }
