@@ -34,7 +34,7 @@ For Nginx, you should use `try_files`.
 ```
 server {
     location / {
-        try_files $uri $uri/ /index.php?$args;
+        try_files $uri $uri/ /index.php$is_args$args;
     }
 }
 ```
