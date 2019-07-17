@@ -6,9 +6,11 @@
  * Time: 15:30
  */
 
+use sinri\ark\core\ArkHelper;
+
 require_once __DIR__ . '/vendor/autoload.php';
 
-\sinri\ark\core\ArkHelper::registerAutoload(
+ArkHelper::registerAutoload(
     "sinri\DryDockOfArk",
     __DIR__,
     ".php"

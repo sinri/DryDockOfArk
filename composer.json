@@ -1,6 +1,6 @@
 {
   "name": "sinri/dry-dock-of-ark",
-  "description": "A sample project based on Ark",
+  "description": "A sample project based on Ark II",
   "type": "project",
   "minimum-stability": "stable",
   "license": "MIT",
@@ -11,6 +11,6 @@
     }
   ],
   "require": {
-    "sinri/ark": "~0.9"
+    "sinri/ark": "~2.8"
   }
 }
